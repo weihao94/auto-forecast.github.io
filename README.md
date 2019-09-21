@@ -26,3 +26,11 @@ Scroll down in the `main` folder till you arrive at `main.exe`:
 Double click on it to open (it may take over 20 seconds to boot up initially), and a window should appear:
 
 <img src="img/app_1.png?raw=true"/>
+
+## Navigating the Program
+
+There are instructions at each step of the program and it should be easy to follow. For simplicity, we illustrate the running of the program with performing a live extraction for the six default stocks, and compute their forecasts. So at step 1, we select `y` and the program proceeds to extract the data (internet connection required) for the six stocks:
+
+<img src="img/screenshot_1.png?raw=true"/>
+
+Once all the data have been extracted, the model computes the forecast for each stock in the sequence it was extracted. 
