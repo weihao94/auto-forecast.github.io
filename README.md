@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This standalone Python-based application is able to perform live extraction of stock data from Yahoo Finance, and from a set of predefined models, computes the daily forecast predictions for the months ahead. In the current build of the public version of the application, the program uses Facebook's `fbprophet` Python library for forecasting. The about of historical data the program takes in is at most 2 years back, from the current date. It will then proceed to perform forecasts for each stock, for a full year ahead. An example of the output for the stock FB is as follows.
+This standalone Python-based application is able to perform live extraction of stock data from Yahoo Finance, and from a set of predefined models, computes the daily forecast predictions for the months ahead. In the current build of the public version of the application, the program uses Facebook's `fbprophet` Python library for forecasting. The amount of historical data the program takes in is at most 2 years back, from the current date. It will then proceed to perform forecasts for each stock, for a full year ahead. An example of the output for the stock FB is as follows.
 
 <img src="img/FB_forecast.png?raw=true"/>
 
