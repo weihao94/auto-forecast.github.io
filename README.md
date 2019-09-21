@@ -10,7 +10,7 @@ This standalone Python-based application is able to perform live extraction of s
 
 ### Downloading the Application
 
-The program can be download via: https://www.dropbox.com/s/v1ts5w5jpnyls6o/main.zip?dl=0. You should be able to observe the following:
+The program can be download via this [link](https://www.dropbox.com/s/v1ts5w5jpnyls6o/main.zip?dl=0). You should be able to observe the following:
 <br>
 <img src="img/dropbox.png?raw=true"/>
 <br>
