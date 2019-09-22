@@ -54,3 +54,9 @@ Recall that if you have extracted stock data previously, they can be found in th
 <img src="img/data_folder.png?raw=true"/>
 
 Hope the guide helps!
+
+-----
+
+## Donate
+
+If you will like to make contributions to the site (completely obligatory), click [here](https://weihao94.github.io/auto-stock-forecasting-app/pages/donate).
