@@ -63,3 +63,7 @@ If you will like to make contributions to the site (completely obligatory), clic
 <br>
 You will also have the option of listing your profile under the [list of contributors](https://weihao94.github.io/auto-stock-forecasting-app/pages/donate) on the donation page.
 <br>
+
+-----
+
+[Return](https://weihao94.github.io/)
