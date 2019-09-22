@@ -9,11 +9,13 @@ Donations can be made via Paypal below:
 <img alt="" border="0" src="https://www.paypal.com/en_SG/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-<br>
-[<font size="3">Return to homepage</font>](https://weihao94.github.io/auto-stock-forecasting-app/)
-<br>
 
 -----
 
 # List of Contributors
 
+-----
+
+<br>
+[<font size="3">Return to homepage</font>](https://weihao94.github.io/auto-stock-forecasting-app/)
+<br>
