@@ -11,3 +11,9 @@ Donations can be made via Paypal below:
 
 <br>
 [<font size="3">Return to homepage</font>](https://weihao94.github.io/auto-stock-forecasting-app/)
+<br>
+
+-----
+
+# List of Contributors
+
