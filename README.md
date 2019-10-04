@@ -10,11 +10,13 @@ This standalone Python-based application is able to perform live extraction of s
 
 ### Downloading the Application
 
-The latest version of the program can be download via this [link](https://www.dropbox.com/s/v1ts5w5jpnyls6o/main.zip?dl=0). You should be able to observe the following:
+The latest version of the program can be download via this [link](https://www.dropbox.com/sh/wx6o6cq2ppd7b28/AADEwzxHoxeSZC-NiI4uehnFa?dl=0). You should be able to observe the following:
 <br>
 <img src="img/dropbox.png?raw=true"/>
 <br>
+
 Once downloaded, unpack the archive and you should see the following folders inside the `dist/main` folder:
+
 <br>
 <img src="img/main_folder.png?raw=true"/>
 <br>
@@ -59,7 +61,7 @@ Hope the guide helps!
 
 ## Version Updates
 
-`v1.2` (updated 03/10/2019): Added 17 models, which take into account holidays, weekends, seasonality (daily, weekly, monthly, yearly) and mode of seasonality (additive/multiplicative).
+`v1.2` (updated 03/10/2019): Added 17 models, which take into account holidays, weekends, seasonality (daily, weekly, monthly, yearly) and mode of seasonality (additive/multiplicative). The program first performs cross-validation on each model and uses the model with the lowest root mean square error (RMSE) obtained during cross-validation as the final model for computing forecasts.
 
 -----
 
