@@ -10,11 +10,11 @@ This standalone Python-based application is able to perform live extraction of s
 
 ### Downloading the Application
 
-The program can be download via this [link](https://www.dropbox.com/s/v1ts5w5jpnyls6o/main.zip?dl=0). You should be able to observe the following:
+The latest version of the program can be download via this [link](https://www.dropbox.com/s/v1ts5w5jpnyls6o/main.zip?dl=0). You should be able to observe the following:
 <br>
 <img src="img/dropbox.png?raw=true"/>
 <br>
-Once downloaded, unpack the archive and you should see the following folders inside the `main` folder:
+Once downloaded, unpack the archive and you should see the following folders inside the `dist/main` folder:
 <br>
 <img src="img/main_folder.png?raw=true"/>
 <br>
@@ -54,6 +54,12 @@ Recall that if you have extracted stock data previously, they can be found in th
 <img src="img/data_folder.png?raw=true"/>
 
 Hope the guide helps!
+
+-----
+
+## Version Updates
+
+`v1.2` (updated 03/10/2019): Added 17 models, which take into account holidays, weekends, seasonality (daily, weekly, monthly, yearly) and mode of seasonality (additive/multiplicative).
 
 -----
 
