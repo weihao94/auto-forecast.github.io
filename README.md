@@ -15,7 +15,7 @@ The latest version of the program can be download via this [link](https://www.dr
 <img src="img/dropbox.png?raw=true"/>
 <br>
 
-Once downloaded, unpack the archive and you should see the following folders inside the `dist/main` folder:
+Download the desired version of the program (see version updates below). Once downloaded, unpack the archive and you should see the following folders inside the `dist/main` folder:
 
 <br>
 <img src="img/main_folder.png?raw=true"/>
